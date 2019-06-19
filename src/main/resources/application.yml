@@ -1,0 +1,7 @@
+name: test-YAML
+environment: test
+servers:
+    - url: www.abc.test.com
+      ttl: 600
+    - url: www.xyz.test.com
+      ttl: 600
